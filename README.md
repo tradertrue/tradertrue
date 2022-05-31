@@ -1,16 +1,14 @@
-### Hi there 👋
+### About me
 
-<!--
-**tradertrue/tradertrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been working on bypassing antibots since 2019. I'm an expert in Scraping and in Android/Javascript reverse engineering.
+I am proficient in Typescript and Python and i know a lot about Java. 
 
-Here are some ideas to get you started:
+I am a freelance in scraping and reverse engineering and i'm actively looking for long or short term work in those fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Portfolio
+
+https://amasuyer.dev/portfolio
+
+### Contact me
+
+https://amasuyer.dev/contact-me
